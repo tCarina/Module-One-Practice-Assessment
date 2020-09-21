@@ -10,7 +10,7 @@ test("Days can be created with the correct properties", () => {
 
 test("Days have a getDescription method that returns the description", () => {
   const today = new Day(80, "cloudy")
-  expect(today.getDescription()).toBe("It is 80 and cloudy")
+  expect(today.getDescription()).toBe("It is 80 degrees and cloudy")
 })
 
 test("getAllDayDescriptions returns the descriptions from an array of Days", () => {
