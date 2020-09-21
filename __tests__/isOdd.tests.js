@@ -11,7 +11,7 @@ test('returns false on even inputs', () => {
   expect(isOdd(0)).toBe(false)
   expect(isOdd(4)).toBe(false)
   expect(isOdd(1424)).toBe(false)
-  expect(isOdd(4448)).toBe(false)ß
+  expect(isOdd(4448)).toBe(false)
 })
 
 test('returns false on NaN inputs', () => {
