@@ -1,4 +1,4 @@
-const getCountriesSortedByPopulation = require("./../problems/removeVowels.js")
+const getCountriesSortedByPopulation = require("./../problems/getCountriesSortedByPopulation.js")
 
 test('Returns an array of country names sorted by population', () => {
   expect(getCountriesSortedByPopulation([
