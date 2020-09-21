@@ -10,3 +10,5 @@
 function isOdd() {
 
 }
+
+module.exports = isOdd
