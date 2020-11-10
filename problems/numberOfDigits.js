@@ -7,8 +7,8 @@
 
 */
 
-function numberOfDigits(n) {
-  
+function numberOfDigits() {
+
 }
 
 module.exports = numberOfDigits
