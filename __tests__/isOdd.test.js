@@ -1,4 +1,4 @@
-const isOdd = require("./../problems/isOdd.js")
+const isOdd = require("../problems/isOdd.js")
 
 test('returns true on odd inputs', () => {
   expect(isOdd(1)).toBe(true)

@@ -1,4 +1,4 @@
-const removeVowels = require("./../problems/removeVowels.js")
+const removeVowels = require("../problems/removeVowels.js")
 
 test('removes vowels from an input string', () => {
   expect(removeVowels("hello")).toBe("hll")

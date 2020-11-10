@@ -1,4 +1,4 @@
-const getCountriesSortedByPopulation = require("./../problems/getCountriesSortedByPopulation.js")
+const getCountriesSortedByPopulation = require("../problems/getCountriesSortedByPopulation.js")
 
 describe("getCountriesSortedByPopulation", () => {
   let ex1 = [
