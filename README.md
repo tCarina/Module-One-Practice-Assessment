@@ -18,7 +18,7 @@ Read the prompts in each file in `/problems`. You can do the problems in any ord
 
 ## Submission Guidelines
 
-- Complete all of the tests, or as many as you can complete in the alloted time.
+- Complete all of the tests, or as many as you can complete in the allotted time.
 - Commit your work
 - Push your commits to your forked copy
 - Make a pull request on github against the original copy
