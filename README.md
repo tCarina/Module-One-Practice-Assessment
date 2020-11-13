@@ -18,6 +18,8 @@ Read the prompts in each file in `/problems`. You can do the problems in any ord
 
 > Note: You can run individual tests by passing the path of the test file to `npm test`. E.g. `npm test ./__tests__/isOdd.test.js` will only run that test file, reducing the amount of output.
 
+[function documentation](./docs/index.html)
+
 ## Submission Guidelines
 
 - Complete all of the tests, or as many as you can complete in the allotted time.
