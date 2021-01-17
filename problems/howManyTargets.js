@@ -8,6 +8,14 @@
  *
  */
 
-function howManyTargets() {}
+function howManyTargets(array, tar) {
+  let count = 0;
+  array.forEach((el) => {
+    if (el === tar) {
+      count += 1;
+    }
+  });
+  return count;
+}
 
 module.exports = howManyTargets;
