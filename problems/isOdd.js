@@ -7,8 +7,14 @@
 
 */
 
-function isOdd() {
-
+function isOdd(n) {
+ if(Number.isNaN(n) || typeof n !== "number"){
+     return false
+ } else if (n % 2 !== 0) {
+     return true
+ } else {
+     return false
+ }
 }
 
 module.exports = isOdd
